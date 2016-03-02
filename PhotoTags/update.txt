@@ -1,2 +1,2 @@
-1.0.1.8
+1.0.1.9
 https://github.com/Drew9268/Downloads/blob/master/PhotoTags/setup.exe?raw=true
