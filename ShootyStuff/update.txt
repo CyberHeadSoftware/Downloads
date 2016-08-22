@@ -1,2 +1,2 @@
-1.0.4.2
+1.0.5.0
 https://github.com/Drew9268/Downloads/blob/master/ShootyStuff/setup.exe?raw=true
