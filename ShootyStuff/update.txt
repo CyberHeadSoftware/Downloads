@@ -1,2 +1,2 @@
-1.0.8.18
+1.0.8.19
 https://github.com/Drew9268/Downloads/blob/master/ShootyStuff/setup.exe?raw=true
