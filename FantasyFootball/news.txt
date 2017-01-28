@@ -1,2 +1,4 @@
-Fantasy Football Coming Soon
-The new Fantasy Football beta release is expected to be out in a few days.
+Fantasy Football Released
+The new Fantasy Football beta has been released! While the features are quite limited, they are being expanded and will be updated soon. In the meantime, try:
+-Creating a league
+-Viewing the players on each team
