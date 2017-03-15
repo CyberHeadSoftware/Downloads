@@ -1,2 +1,2 @@
-0.1.0.18
+0.1.0.19
 https://raw.githubusercontent.com/Drew9268/Downloads/master/FantasyFootball/setupfantasyfootball.exe
